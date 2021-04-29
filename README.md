@@ -1,2 +1,1 @@
-# ratika-ki-rasoi
-Website for Ratika ki Rasoi 
+# Website for Ratika ki Rasoi
